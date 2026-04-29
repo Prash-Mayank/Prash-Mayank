@@ -226,7 +226,18 @@ Email Me 👉 ✉️ **mayank.prash@gmail.com** For Collaboration/Project or Any
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Prash-Mayank&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <a href="https://github.com/Prash-Mayank/Bharatvarsh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prash-Mayank&repo=Bharatvarsh&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Prash-Mayank/BookFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prash-Mayank&repo=BookFlow&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Prash-Mayank/Cloudtrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prash-Mayank&repo=Cloudtrack&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Prash-Mayank/Matikala">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prash-Mayank&repo=Matikala&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 
